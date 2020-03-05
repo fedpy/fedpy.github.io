@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/fedpy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://fedpy.programmerscast.com
+  * I am fedpy (https://keybase.io/fedpy) on keybase.
+  * I have a public key ASDNKSEuy7_kdG6tYZHoLwry1KsdsZT7Oto7xf-3yho3RQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cd29212ecbbfe4746ead6191e82f0af2d4ab1db194fb3ada3bc5ffb7ca1a37450a",
+      "host": "keybase.io",
+      "kid": "0120cd29212ecbbfe4746ead6191e82f0af2d4ab1db194fb3ada3bc5ffb7ca1a37450a",
+      "uid": "003a68410aaadb1e43435975e69ad619",
+      "username": "fedpy"
+    },
+    "merkle_root": {
+      "ctime": 1583440784,
+      "hash": "befefcca3f205c87ac9b2e12ccfc3ac3184553a7a780569c3a17fef3c373e6eaf70019391d037f715486161bfb1cc6b33e4d1adc8830dca4efdd659789a88743",
+      "hash_meta": "bd5ea6adb31930a6d8bbbb860ea5fc66ae5c72115325da8a71ad716b9160b6f7",
+      "seqno": 15058993
+    },
+    "service": {
+      "entropy": "3Bq09LUVkVepz5btcgklZDkF",
+      "hostname": "fedpy.programmerscast.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.1"
+  },
+  "ctime": 1583440814,
+  "expire_in": 504576000,
+  "prev": "ad827288a78f84334d9cbcf3c56d9967def73ae44ce084a7f56bd5f38c460ba4",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzSkhLsu/5HRurWGR6C8K8tSrHbGU+zraO8X/t8oaN0UKp3BheWxvYWTESpcCDcQgrYJyiKePhDNNnLzzxW2ZZ973OuRM4ISn9WvV84xGC6TEIMcpx2ecGjN2QQCGFfTtVJ2ovr9wDaGoPYeG6QQJpJ47AgHCo3NpZ8RANFv5sUSFrnikl7oZKVG2ju9Uc8+UkZo9jnrBUI4czpFYQ/YAniwvIWjYCrlc/YYI7DNV1nIRxjlQNluJK2gGDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDhOymQ8tDqdn6ZfQhKcNBgaFjBK21TAOL+p5L7ErXq5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fedpy
+
+==================================================================
